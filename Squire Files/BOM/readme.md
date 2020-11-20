@@ -9,7 +9,7 @@
 | Duet Filament Monitor Rotating Magnet Version      | 1   | $52.95  | Printed Solid          |
 | PanelDue 5i                                        | 1   | $89.90  | Printed Solid          |
 | Bondtech BMG                                       | 1   | $80.00  | Printed Solid          |
-| E3Dv6 custom hotend & nozzle                       | 1   | $85.00  | Printed Solid          |
+| E3Dv6 hotend & nozzle (hand filed edge)            | 1   | $85.00  | Printed Solid          |
 | LDO .9 Stepper LDO-42STH40-1684MAC                 | 2   | $32.00  | Printed Solid          |
 | LDO .9 slim stepper LDO-42STH25-1404MAC            | 1   | $15.00  | Printed Solid          |
 | LDO 5:1 geared stepper                             | 1   | $39.87  | Printed Solid          |
@@ -68,7 +68,8 @@
 | M3 x 18mm bolt                  | 2   | McMaster-Carr | 92095A472               | 
 | M3 x 25mm bolt                  | 14  | McMaster-Carr | 92095A186               | 
 | M3 x 30mm bolt                  | 1   | McMaster-Carr | 92095A187               | 
-| M3 x 35mm bolt                  | 4   | McMaster-Carr | 92095A201               | 
+| M3 x 35mm bolt                  | 4   | McMaster-Carr | 92095A201               |
+| M3 x 40mm bolt                  | 3   | McMaster-Carr | 92095A203               |
 | M3 x 45mm bolt                  | 2   | McMaster-Carr | 92095A474               | 
 | M4 x 8mm bolt                   | 8   | McMaster-Carr | 92095A189               | 
 | M5 Square nut                   | 4   | McMaster-Carr | 90225A101               | 
@@ -90,8 +91,8 @@
 |---------------------------------|-----|---------------|-------------------------| 
 | 40 Pin Male IDC connector       | 1   | Digikey.com   | OR973-ND                | 
 | 40 Pin Female IDC Connector     | 1   | Digikey.com   | OR923-ND                | 
-| 4 position Molex Plug           | 1   | Digikey.com   | WM1018-ND               | 
-| 4 position Molex receptical     | 1   | Digikey.com   | WM3701-ND               | 
+| 4 position Molex Plug           | 2   | Digikey.com   | WM1018-ND               | 
+| 4 position Molex receptical     | 2   | Digikey.com   | WM3701-ND               | 
 | Molex Male pin                  | 4   | Digikey.com   | WM2500-ND               | 
 | Molex female pin                | 4   | Digikey.com   | WM2501-ND               | 
 | 20AWG 2 conductor blk/red       | 1   | Digikey.com   | CN180BR-25-ND           | 
